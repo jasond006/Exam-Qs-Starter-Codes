@@ -1,5 +1,5 @@
-1 # Question 16 (a)
-2 # Examination Number:
+# Question 16 (a)
+# Examination Number:
 
 firstName = input("What is your first name? ")
 
