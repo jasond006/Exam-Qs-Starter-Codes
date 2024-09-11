@@ -1,4 +1,4 @@
-#Section B Question 2
+#Section B Question 2 
 #Student name:
 import random
 your_name = input("Please enter your name: ")
